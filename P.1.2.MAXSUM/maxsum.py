@@ -26,4 +26,3 @@ for _ in range(C):
     N = int(input())
     box = list(map(int, input().split()))
     print(maxsum(0, N-1))
-    
