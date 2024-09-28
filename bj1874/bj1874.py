@@ -1,3 +1,9 @@
+'''
+https://www.acmicpc.net/problem/1874
+문제: 스택 순열
+난이도: 실버2
+'''
+
 import sys
 
 def 백준1874():
